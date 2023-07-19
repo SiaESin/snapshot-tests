@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      <div
+        className="card"
+        style={
+          Object {
+            "width": "18rem",
+          }
+        }
+      >
+        <img
+          className="card-img-top"
+          src="https://wallpapers.com/images/hd/cute-cartoon-black-girl-wondering-l0iicod363mm7wmy.jpg"
+          width="300px"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            SiaSparkles
+          </div>
+          <p
+            className="card-text"
+          >
+            SiaSparkles is working hard to get better at coding. It is a difficult job but we will get it done.
+          </p>
+          <button
+            className="btn btn-primary"
+            disabled={false}
+            type="button"
+          >
+            Let's GOOOO
+          </button>
+        </div>
+      </div>
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+  </header>
+</div>
+`;
